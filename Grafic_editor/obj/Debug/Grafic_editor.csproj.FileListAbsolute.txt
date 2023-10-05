@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\bin\Debug\Grafic_editor.exe.config
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\bin\Debug\Grafic_editor.exe
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\bin\Debug\Grafic_editor.pdb
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.Form1.resources
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.Properties.Resources.resources
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.exe
+C:\Users\Maria\source\repos\Grafic_editor\Grafic_editor\obj\Debug\Grafic_editor.pdb
